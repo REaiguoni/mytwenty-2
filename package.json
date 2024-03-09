@@ -1,0 +1,26 @@
+{
+"name": "zzhongyujeishulewodetian",
+"version": "1.0.0",
+"description": "eplace the API endpoint with your actual data source for fetching historical Bitcoin price data. The server listens on the spe",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/REaiguoni/mytwenty-2.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "REaiguoni",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}

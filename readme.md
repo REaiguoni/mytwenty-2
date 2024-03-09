@@ -1,0 +1,1 @@
+Price History Data**: Access historical price data to analyze trends and patterns.
